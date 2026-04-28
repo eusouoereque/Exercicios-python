@@ -1,0 +1,8 @@
+ip;rede;cpu;status;setor
+192.168.0.1;Interno;45.5;ESTÁVEL;TI
+192.168.0.10;Interno;88.0;CRÍTICO;Produção
+10.0.0.5;Externo;12.3;ESTÁVEL;Financeiro
+192.168.1.50;Interno;92.1;CRÍTICO;Logística
+193.34.5.6;Externo;34.0;ESTÁVEL;diretoria
+192.168.673.23;Interno;90.0;CRÍTICO;TI
+193.178.323.13;Externo;50.0;ESTÁVEL;Almoxarifado
