@@ -1,0 +1,106 @@
+﻿id_paciente;nome;idade;cidade
+1000;PACIENTE 1000;20.0;Limeira
+1001;paciente 1001;60.0;Conchal
+1002;paciente 1002;30.0;Araras
+1003;paciente 1003;45.0;Limeira
+1004;PACIENTE 1004;;Pirassununga
+1005;PACIENTE 1005;30.0;Limeira
+1006;PACIENTE 1006;45.0;Pirassununga
+1007;paciente 1007;60.0;Conchal
+1008;paciente 1008;30.0;Pirassununga
+1009;paciente 1009;20.0;Araras
+1010;PACIENTE 1010;30.0;Conchal
+1011;paciente 1011;20.0;Araras
+1012;paciente 1012;;Rio Claro
+1013;PACIENTE 1013;;Leme
+1014;PACIENTE 1014;60.0;Pirassununga
+1015;PACIENTE 1015;;Leme
+1016;PACIENTE 1016;;Leme
+1017;paciente 1017;20.0;Pirassununga
+1018;PACIENTE 1018;;Conchal
+1019;PACIENTE 1019;45.0;Rio Claro
+1020;paciente 1020;;Araras
+1021;PACIENTE 1021;;Limeira
+1022;PACIENTE 1022;30.0;Araras
+1023;PACIENTE 1023;20.0;Limeira
+1024;PACIENTE 1024;30.0;Araras
+1025;paciente 1025;45.0;Pirassununga
+1026;PACIENTE 1026;;Rio Claro
+1027;paciente 1027;;Limeira
+1028;paciente 1028;20.0;Conchal
+1029;PACIENTE 1029;45.0;Araras
+1030;paciente 1030;45.0;Araras
+1031;PACIENTE 1031;30.0;Limeira
+1032;PACIENTE 1032;20.0;Conchal
+1033;paciente 1033;30.0;Conchal
+1034;paciente 1034;;Pirassununga
+1035;paciente 1035;30.0;Pirassununga
+1036;PACIENTE 1036;45.0;Pirassununga
+1037;PACIENTE 1037;60.0;Pirassununga
+1038;paciente 1038;30.0;Pirassununga
+1039;PACIENTE 1039;;Pirassununga
+1040;PACIENTE 1040;;Rio Claro
+1041;PACIENTE 1041;30.0;Conchal
+1042;PACIENTE 1042;45.0;Pirassununga
+1043;paciente 1043;30.0;Conchal
+1044;PACIENTE 1044;30.0;Conchal
+1045;paciente 1045;20.0;Leme
+1046;PACIENTE 1046;60.0;Rio Claro
+1047;paciente 1047;45.0;Pirassununga
+1048;paciente 1048;20.0;Araras
+1049;PACIENTE 1049;30.0;Limeira
+1050;paciente 1050;;Araras
+1051;paciente 1051;30.0;Rio Claro
+1052;paciente 1052;20.0;Limeira
+1053;paciente 1053;45.0;Rio Claro
+1054;paciente 1054;;Conchal
+1055;paciente 1055;30.0;Limeira
+1056;PACIENTE 1056;60.0;Conchal
+1057;PACIENTE 1057;60.0;Araras
+1058;PACIENTE 1058;30.0;Araras
+1059;PACIENTE 1059;60.0;Limeira
+1060;PACIENTE 1060;30.0;Limeira
+1061;PACIENTE 1061;60.0;Pirassununga
+1062;paciente 1062;60.0;Rio Claro
+1063;PACIENTE 1063;45.0;Pirassununga
+1064;PACIENTE 1064;20.0;Rio Claro
+1065;paciente 1065;;Pirassununga
+1066;PACIENTE 1066;30.0;Conchal
+1067;paciente 1067;20.0;Limeira
+1068;PACIENTE 1068;20.0;Araras
+1069;paciente 1069;45.0;Rio Claro
+1070;paciente 1070;60.0;Rio Claro
+1071;PACIENTE 1071;20.0;Araras
+1072;PACIENTE 1072;45.0;Pirassununga
+1073;paciente 1073;30.0;Rio Claro
+1074;paciente 1074;60.0;Conchal
+1075;paciente 1075;20.0;Limeira
+1076;paciente 1076;60.0;Araras
+1077;PACIENTE 1077;30.0;Limeira
+1078;PACIENTE 1078;;Rio Claro
+1079;PACIENTE 1079;20.0;Rio Claro
+1080;paciente 1080;30.0;Araras
+1081;paciente 1081;20.0;Conchal
+1082;PACIENTE 1082;;Leme
+1083;PACIENTE 1083;;Araras
+1084;PACIENTE 1084;30.0;Leme
+1085;PACIENTE 1085;60.0;Pirassununga
+1086;paciente 1086;;Leme
+1087;paciente 1087;45.0;Conchal
+1088;paciente 1088;45.0;Pirassununga
+1089;PACIENTE 1089;30.0;Leme
+1090;PACIENTE 1090;20.0;Pirassununga
+1091;paciente 1091;;Leme
+1092;paciente 1092;;Conchal
+1093;paciente 1093;60.0;Leme
+1094;paciente 1094;30.0;Leme
+1095;PACIENTE 1095;30.0;Leme
+1096;paciente 1096;60.0;Araras
+1097;PACIENTE 1097;;Araras
+1098;PACIENTE 1098;;Araras
+1099;PACIENTE 1099;60.0;Conchal
+1028;paciente 1028;20.0;Conchal
+1099;PACIENTE 1099;60.0;Conchal
+1010;PACIENTE 1010;30.0;Conchal
+1081;paciente 1081;20.0;Conchal
+1068;PACIENTE 1068;20.0;Araras
